@@ -56,10 +56,6 @@ a, .linkbox a:hover {
   text-decoration: none;
 }
 
-a:hover, #content a:visited {
-  color: #456478;
-}
-
 a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportform.create_form .layout td, #requests .box.box_votes td, #upload #whmf_offer, .filter_torrents .cat_list, .search_form .layout td {
   border: none !important;
 }
